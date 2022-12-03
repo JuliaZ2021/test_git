@@ -10,5 +10,5 @@ public class Tank {
     public void printPosition(){
         System.out.println("The tank is " + currentPosition + " now");
     }
-     //комментарий2
+     //комментарий3
 }
